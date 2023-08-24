@@ -129,7 +129,7 @@ class FlightTable {
     }
 }
 
-public class lab_3Q {
+public class main {
     public static void main(String[] args) {
         FlightTable flightTable = new FlightTable();
 
